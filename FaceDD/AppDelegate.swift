@@ -41,7 +41,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window!.rootViewController = tabBarController;
         
         
-        
+        let a = 1
         window!.makeKeyAndVisible()
         
 //        let storyboard = UIStoryboard(name: "Main", bundle: nil)
